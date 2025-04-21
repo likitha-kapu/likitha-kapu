@@ -4,7 +4,7 @@
 
  🌱 I’m currently learning **WEB TECHNOLOGIES**
 
- 📫 How to reach me **likitha8@gmail.com**
+ 📫 How to reach me **kapulikitha8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
