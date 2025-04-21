@@ -1,5 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+Likitha!+%F0%9F%91%8B)](https://github.com/likitha-kapu)
-<h1>Hi 👋, I'm Likitha</h1>
+<h1>ABOUT ME</h1>
 - 🔭 I’m currently working on OPENSOURCE PROJECTS
 
 - 🌱 I’m currently learning **WEB TECHNOLOGIES**
