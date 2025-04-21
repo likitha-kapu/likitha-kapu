@@ -1,10 +1,10 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+Likitha!+%F0%9F%91%8B)](https://github.com/likitha-kapu)
 <h1>ABOUT ME</h1>
-- 🔭 I’m currently working on OPENSOURCE PROJECTS
+ 🔭 I’m currently working on OPENSOURCE PROJECTS
 
-- 🌱 I’m currently learning **WEB TECHNOLOGIES**
+ 🌱 I’m currently learning **WEB TECHNOLOGIES**
 
-- 📫 How to reach me **likitha8@gmail.com**
+ 📫 How to reach me **likitha8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
