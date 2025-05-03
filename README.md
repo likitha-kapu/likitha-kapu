@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+Likitha!+%F0%9F%91%8B)](https://github.com/likitha-kapu)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=87CEEB&lines=Hey%2C+I'm+Likitha!+%F0%9F%91%8B)](https://github.com/likitha-kapu)
 ## 👩‍💻 About Me
 
 🔭 I’m currently contributing to **Open Source Projects**  
@@ -12,7 +12,7 @@
  
  <a href="https://likitha-kapu.github.io/Portfolio/" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF69B4?style=for-the-badge&logo=github" 
+    src="https://img.shields.io/badge/Visit%20My%20Portfolio-87CEEB?style=for-the-badge&logo=github" 
     alt="Visit My Portfolio" />
 </a>
 
