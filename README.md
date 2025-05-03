@@ -18,9 +18,21 @@
 
 <h3>💭 Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/liki_.08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liki_.08" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/likithakapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="likithakapu" height="30" width="40" /></a>
+  <a href="https://instagram.com/liki_.08" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liki_.08" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/likithakapu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
+
+<h3>💻 Coding Profiles:</h3>
+<p align="left">
+  <a href="https://www.leetcode.com/LikithaKapu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="likithakapu" height="30" width="40" />
+  </a>
+</p>
+
 
 <h3>🎧 Technologies and Tools:</h3>
 
